@@ -1,0 +1,80 @@
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\bin\Release\LendingSystem.exe.config
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\bin\Release\LendingSystem.exe
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\bin\Release\LendingSystem.pdb
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\bin\Release\EntityFramework.dll
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\bin\Release\EntityFramework.SqlServer.dll
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\bin\Release\Touchless.Vision.dll
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\bin\Release\WebCamLib.dll
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\bin\Release\EntityFramework.xml
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\bin\Release\EntityFramework.SqlServer.xml
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LendingModel.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.BorrowerBalanceToDouble.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LoanBalanceChangeToDouble.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LoanChargeModified.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.AddLedger.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.AddLedgerSeq.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerChangeCreditToDecimal.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerChangeDebitToDouble.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerChangeCreditToDecimal2.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerChangeBalanceToInt32.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerChangeType.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerAddrowid.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.RunSqlScript.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerAddrId.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Properties.Resources.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.BorrowerListUi.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.BorrowerUI.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.CameraUi.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.LoanChargeUi.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.LoanInformationUi.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.LoanPaymentUi.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.LoanUi.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.OfficeUi.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.csproj.GenerateResource.Cache
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.exe
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.pdb
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.ReportViewer.resources
+G:\Bluebean Software\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.PaymentList.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\LendingSystem.exe.config
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\LendingSystem.exe
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\LendingSystem.pdb
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\EntityFramework.dll
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\EntityFramework.SqlServer.dll
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\FlashControlV71.dll
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\Touchless.Vision.dll
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\ShockwaveFlashObjects.dll
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\WebCamLib.dll
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\stdole.dll
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\EntityFramework.xml
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\bin\Release\EntityFramework.SqlServer.xml
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.csprojResolveAssemblyReference.cache
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LendingModel.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.BorrowerBalanceToDouble.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LoanBalanceChangeToDouble.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LoanChargeModified.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.AddLedger.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.AddLedgerSeq.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerChangeCreditToDecimal.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerChangeDebitToDouble.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerChangeCreditToDecimal2.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerChangeBalanceToInt32.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerChangeType.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerAddrowid.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.RunSqlScript.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Migrations.LedgerAddrId.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.Properties.Resources.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.BorrowerListUi.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.BorrowerUI.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.CameraUi.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.LoanChargeUi.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.LoanInformationUi.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.LoanPaymentUi.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.LoanUi.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.OfficeUi.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.PaymentList.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.UI.ReportViewer.resources
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.csproj.GenerateResource.cache
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.csproj.CoreCompileInputs.cache
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.csproj.CopyComplete
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.exe
+C:\_MyTrainings\Lending Software\LendingSystem\LendingSystem\obj\Release\LendingSystem.pdb
